@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "788520517517",
+    "firebase_url": "https://iotdatabase-e30f4-default-rtdb.firebaseio.com",
+    "project_id": "iotdatabase-e30f4",
+    "storage_bucket": "iotdatabase-e30f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788520517517:android:f55c0603cd4260fedf07c4",
+        "android_client_info": {
+          "package_name": "com.example.smart_bin_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "you key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
