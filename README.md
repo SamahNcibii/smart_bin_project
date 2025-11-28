@@ -18,6 +18,7 @@ Servo moteur → ouverture
 
 LEDs → statut (pleine / vide)
 💡 But : envoyer les données en temps réel vers Firebase.
+
 -firebase-realtime database-notification push en temps reel
 -Node Red
 -thinkspeak
